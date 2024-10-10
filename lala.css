@@ -906,6 +906,10 @@ body {
     margin: 10% auto;
     background-color: #fff;
     display: flex;
+    cursor: pointer;
+}
+#section .store .store_list>li .acco .visit:hover{
+    outline: 3px solid #095ca04f;
 }
 #section .store .store_list>li .acco .visit a{
     width: 30%;
